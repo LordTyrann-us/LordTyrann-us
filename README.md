@@ -1,4 +1,4 @@
-## Hi I'm ULi👋
+## Hi I'm ULI👋
 
 Senior Enterprise & AI GTM Leader with 20+ years driving revenue growth across LATAM and North America.
 
