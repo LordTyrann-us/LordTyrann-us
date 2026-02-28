@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm ULi👋
 
-<!--
-**LordTyrann-us/LordTyrann-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Enterprise & AI GTM Leader with 20+ years driving revenue growth across LATAM and North America.
 
-Here are some ideas to get you started:
+I operate at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enterprise Sales & Channel Strategy
+
+AI-Driven GTM Systems
+
+SaaS & Cloud Architecture Fluency
+
+Full-Stack Prototyping & Technical Validation
